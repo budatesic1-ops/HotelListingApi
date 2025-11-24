@@ -1,0 +1,6 @@
+@HotelListingApi_HostAddress = https://localhost:7180
+
+
+GET {{HotelListingApi_HostAddress}}/api/hotels
+
+###
